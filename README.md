@@ -51,9 +51,9 @@ This repository contains an assignment to train and evaluate both a Decision Tre
 
 ## Steps to Follow:
 
--**Data Preprocessing:**  Load and preprocess the dataset, handle multi-valued categorical variables.
-- **Train Models:** Train Naive Bayes and Decision Tree classifiers.
-- **Evaluate Models:** Compare models based on ROC curves and AUC. 
+ - **Data Preprocessing:**  Load and preprocess the dataset, handle multi-valued categorical variables.
+ - **Train Models:** Train Naive Bayes and Decision Tree classifiers.
+ - **Evaluate Models:** Compare models based on ROC curves and AUC. 
 
 ## Data Visualization:
 
