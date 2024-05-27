@@ -61,11 +61,11 @@ This repository contains an assignment to train and evaluate both a Decision Tre
 ![Decision Tree](images/Decision_Tree.png)
 
 -**ROC CURVE**
-![ROC Curve](ROC curve.png)
+![ROC Curve](images/ROC_Curve.png)
 
 
 -**5 fold Method**
-![5 fold Method](images/5 fold method.png)
+![5 fold Method](images/5_fold_method.png)
 
 ## Conclusion
 The analysis reveals that both Naive Bayes and Decision Tree classifiers are effective in predicting mushroom edibility, with differences in performance highlighted by the ROC curves and AUC values.
